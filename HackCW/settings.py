@@ -42,8 +42,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'widget_tweaks',
-    'cart',
-    'django_cleanup'
+    'django_cleanup',
 ]
 CART_SESSION_ID = 'cart'
 
